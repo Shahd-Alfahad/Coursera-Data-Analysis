@@ -1,0 +1,744 @@
+Name,Organization,Rating,Level,Duration
+"Foundations: Data, Data, Everywhere",Google,4.8,Beginner,12
+Supervised Machine Learning: Regression and Classification,DeepLearning.AI,4.9,Beginner,4
+Generative AI for Everyone,DeepLearning.AI,4.8,Beginner,4
+Prompt Engineering for ChatGPT,Vanderbilt University,4.8,Beginner,12
+Ask Questions to Make Data-Driven Decisions,Google,4.7,Beginner,4
+Advanced Learning Algorithms,DeepLearning.AI,4.9,Beginner,4
+Neural Networks and Deep Learning,DeepLearning.AI,4.9,Intermediate,4
+"Python for Data Science, AI & Development",IBM,4.6,Beginner,12
+Prepare Data for Exploration,Google,4.8,Beginner,12
+What is Data Science?,IBM,4.7,Beginner,4
+Introduction to Data Analytics,IBM,4.8,Beginner,12
+Introduction to Statistics,Stanford University,4.6,Beginner,12
+Introduction to Artificial Intelligence (AI),IBM,4.7,Beginner,4
+Process Data from Dirty to Clean,Google,4.8,Beginner,12
+"Unsupervised Learning, Recommenders, Reinforcement Learning",DeepLearning.AI,4.9,Beginner,4
+Excel Basics for Data Analysis,IBM,4.8,Beginner,12
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,4.9,Intermediate,4
+Analyze Data to Answer Questions,Google,4.6,Beginner,4
+Tools for Data Science,IBM,4.5,Beginner,12
+Generative AI: Introduction and Applications,IBM,4.6,Beginner,4
+Data Analysis with R Programming,Google,4.8,Beginner,12
+Introduction to Machine Learning in Production,DeepLearning.AI,4.8,Advanced,4
+Databases and SQL for Data Science with Python,IBM,4.6,Beginner,12
+Machine Learning with Python,IBM,4.7,Intermediate,12
+Preparing  Data for Analysis with Microsoft Excel,Microsoft,4.7,Beginner,4
+Foundations of Data Science,Google,4.7,Advanced,12
+Share Data Through the Art of Visualization,Google,4.6,Beginner,4
+Foundations of Business Intelligence,Google,4.7,Advanced,4
+Generative AI: Prompt Engineering Basics,IBM,4.8,Beginner,4
+Data Analysis with Python,IBM,4.7,Beginner,12
+Convolutional Neural Networks,DeepLearning.AI,4.9,Intermediate,4
+Sequence Models,DeepLearning.AI,4.8,Intermediate,4
+Structuring Machine Learning Projects,DeepLearning.AI,4.8,Beginner,4
+Google Data Analytics Capstone: Complete a Case Study,Google,4.8,Beginner,4
+Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,4.6,Intermediate,4
+Python Project for Data Science,IBM,4.5,Intermediate,4
+Get Started with Python,Google,4.8,Advanced,12
+Data Science Methodology,IBM,4.6,Beginner,4
+Data Visualization and Dashboards with Excel and Cognos,IBM,4.7,Beginner,4
+Machine Learning Data Lifecycle in Production,DeepLearning.AI,4.3,Advanced,4
+SQL for Data Science,"University of California, Davis",4.6,Beginner,4
+Harnessing the Power of Data with Power BI,Microsoft,4.5,Beginner,4
+Trustworthy Generative AI,Vanderbilt University,4.8,Beginner,4
+Data Visualization with Python,IBM,4.5,Intermediate,12
+Machine Learning Foundations for Product Managers,Duke University,4.6,Beginner,12
+The Path to Insights: Data Models and Pipelines,Google,4.7,Advanced,4
+Exploratory Data Analysis for Machine Learning,IBM,4.6,Intermediate,12
+Go Beyond the Numbers: Translate Data into Insights,Google,4.8,Advanced,12
+Convolutional Neural Networks in TensorFlow,DeepLearning.AI,4.7,Intermediate,4
+Natural Language Processing with Probabilistic Models,DeepLearning.AI,4.7,Intermediate,4
+AI Strategy and Governance,University of Pennsylvania,4.8,Beginner,4
+"Extract, Transform and Load Data in Power BI",Microsoft,4.5,Beginner,4
+Introduction to Clinical Data,Stanford University,4.7,Beginner,12
+Pre-MBA Statistics,IIMA - IIM Ahmedabad,4.5,Beginner,12
+AI Applications in People Management,University of Pennsylvania,4.7,Mixed,4
+Mathematics for Machine Learning: Linear Algebra,Imperial College London,4.7,Beginner,12
+Data Analysis and Visualization with Power BI,Microsoft,4.7,Beginner,12
+Introduction to Deep Learning & Neural Networks with Keras,IBM,4.7,Intermediate,12
+Build Basic Generative Adversarial Networks (GANs),DeepLearning.AI,4.7,Intermediate,4
+Natural Language Processing in TensorFlow,DeepLearning.AI,4.6,Intermediate,4
+AI for Medical Diagnosis,DeepLearning.AI,4.7,Intermediate,4
+Fundamentals of Machine Learning for Healthcare,Stanford University,4.8,Beginner,12
+GPT Vision: Seeing the World through Generative AI,Vanderbilt University,4.7,Beginner,4
+Machine Learning Modeling Pipelines in Production,DeepLearning.AI,4.4,Advanced,12
+Introduction to Computer Vision and Image Processing,IBM,4.3,Beginner,12
+"Sequences, Time Series and Prediction",DeepLearning.AI,4.7,Intermediate,4
+Fundamentals of Reinforcement Learning,University of Alberta,4.8,Intermediate,12
+Data Modeling in Power BI,Microsoft,4.2,Beginner,4
+Navigating Generative AI: A CEO Playbook,Coursera ,4.7,Mixed,4
+Applied Data Science Capstone,IBM,4.7,Intermediate,12
+Deep Neural Networks with PyTorch,IBM,4.4,Intermediate,12
+Natural Language Processing with Attention Models,DeepLearning.AI,4.4,Intermediate,4
+The Power of Statistics,Google,4.8,Advanced,12
+Deploying Machine Learning Models in Production,DeepLearning.AI,4.5,Advanced,4
+Supply Chain Management and Analytics,Unilever,4.7,Beginner,12
+Natural Language Processing with Sequence Models,DeepLearning.AI,4.5,Intermediate,4
+Evaluations of AI Applications in Healthcare,Stanford University,4.6,Beginner,12
+"Decisions, Decisions: Dashboards and Reports",Google,4.8,Advanced,12
+Google Cloud Big Data and Machine Learning Fundamentals,Google Cloud,4.7,Beginner,12
+Regression Analysis: Simplify Complex Data Relationships,Google,4.7,Advanced,12
+AI and Public Health,DeepLearning.AI,4.7,Beginner,4
+Introduction to Machine Learning,Duke University,4.7,Intermediate,12
+Introduction to Probability and Data with R,Duke University,4.7,Beginner,12
+Generative AI Essentials: Overview and Impact,University of Michigan,4.7,Beginner,4
+Building AI Applications with Watson APIs,IBM,4.3,Intermediate,12
+IBM Data Analyst Capstone Project,IBM,4.6,Intermediate,12
+Data-driven Decision Making,PwC,4.6,Beginner,4
+R Programming,Johns Hopkins University,4.5,Intermediate,4
+The Nuts and Bolts of Machine Learning,Google,4.8,Advanced,12
+Microsoft PL-300 Exam Preparation and Practice,Microsoft,4.5,Beginner,12
+Introduction to Data Science in Python,University of Michigan,4.5,Intermediate,4
+Build Better Generative Adversarial Networks (GANs),DeepLearning.AI,4.7,Intermediate,4
+Fundamentals of Visualization with Tableau,"University of California, Davis",4.5,Beginner,4
+Supervised Machine Learning: Regression,IBM,4.7,Intermediate,12
+Computational Neuroscience,University of Washington,4.6,Beginner,12
+Google Advanced Data Analytics Capstone,Google,4.9,Advanced,4
+Foundations of Data Science: K-Means Clustering in Python,University of London,4.6,Beginner,12
+"Introduction to Trading, Machine Learning & GCP",Google Cloud,4.0,Intermediate,4
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,4.7,Beginner,12
+Managing Machine Learning Projects,Duke University,4.8,Beginner,12
+Creative Designing in Power BI,Microsoft,4.4,Beginner,4
+Getting Started with SAS Programming,SAS,4.8,Beginner,12
+Problem Solving with Excel,PwC,4.7,Beginner,4
+Building Deep Learning Models with TensorFlow,IBM,4.4,Intermediate,12
+Probabilistic Graphical Models 1: Representation,Stanford University,4.6,Advanced,12
+Sample-based Learning Methods,University of Alberta,4.8,Intermediate,12
+Introduction to Genomic Technologies,Johns Hopkins University,4.6,Mixed,4
+The Structured Query Language (SQL),University of Colorado Boulder,4.7,Beginner,12
+Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",4.6,Intermediate,4
+Introduction to Embedded Machine Learning,Edge Impulse,4.8,Intermediate,4
+Deploy and Maintain Power BI Assets and Capstone project,Microsoft,4.3,Beginner,12
+Data Analytics for Lean Six Sigma,University of Amsterdam,4.8,Beginner,12
+Introduction to Business Analytics,Tableau Learning Partner,4.7,Beginner,4
+Machine Learning Introduction for Everyone,IBM,4.5,Beginner,4
+"Data Wrangling, Analysis and AB Testing with SQL","University of California, Davis",3.3,Intermediate,4
+SQL: A Practical Introduction for Querying Databases,IBM,4.6,Beginner,12
+Apply Generative Adversarial Networks (GANs),DeepLearning.AI,4.8,Intermediate,4
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,4.7,Intermediate,12
+Getting Started with Data Analytics on AWS,Amazon Web Services,4.5,Beginner,4
+Supervised Machine Learning: Classification,IBM,4.8,Intermediate,12
+Data Analysis Using Python,University of Pennsylvania,4.5,Beginner,4
+The Data Scientist’s Toolbox,Johns Hopkins University,4.6,Mixed,4
+AI and Climate Change,DeepLearning.AI,4.8,Beginner,4
+Understanding and Visualizing Data with Python,University of Michigan,4.7,Beginner,4
+AI Capstone Project with Deep Learning,IBM,4.5,Advanced,4
+Process Mining: Data science in Action,Eindhoven University of Technology,4.7,Intermediate,12
+Mathematics for Machine Learning: PCA,Imperial College London,4.0,Intermediate,4
+Python for Genomic Data Science,Johns Hopkins University,4.3,Mixed,4
+Microsoft Azure for Data Engineering,Microsoft,4.5,Intermediate,4
+Assessment for Data Analysis and Visualization Foundations,IBM,4.6,Beginner,4
+Introduction to R Programming for Data Science,IBM,4.5,Beginner,12
+Deep Learning and Reinforcement Learning,IBM,4.6,Intermediate,12
+AI for Medical Prognosis,DeepLearning.AI,4.7,Intermediate,4
+Human Factors in AI,Duke University,4.7,Beginner,4
+"Custom Models, Layers, and Loss Functions with TensorFlow",DeepLearning.AI,4.9,Intermediate,12
+"Statistical Thinking for Industrial Problem Solving, presented by JMP",SAS,4.8,Beginner,12
+Basic Statistics,University of Amsterdam,4.6,Beginner,12
+Advanced Computer Vision with TensorFlow,DeepLearning.AI,4.8,Intermediate,4
+Applied Machine Learning in Python,University of Michigan,4.6,Intermediate,4
+"Data Ethics, AI and Responsible Innovation",The University of Edinburgh,4.4733898305084745,Intermediate,12
+Leveraging AI for Enhanced Content Creation,Coursera Instructor Network,4.9,Beginner,4
+Using Data Analytics in Supply Chain,Unilever,4.4733898305084745,Beginner,12
+Introduction to Tableau,Tableau Learning Partner,4.8,Beginner,4
+Probability Theory: Foundation for Data Science,University of Colorado Boulder,4.5,Intermediate,12
+Social Media Data Analytics,University of Washington,4.1,Intermediate,4
+AI For Medical Treatment,DeepLearning.AI,4.7,Intermediate,4
+Analyzing and Visualizing Data in Looker,Google Cloud,4.7,Beginner,12
+Generative AI: Foundation Models and Platforms,IBM,4.8,Beginner,4
+Linear Algebra: Linear Systems and Matrix Equations,Johns Hopkins University,4.7,Beginner,4
+Inferential Statistics,Duke University,4.8,Beginner,12
+Machine Learning with Apache Spark,IBM,4.6,Intermediate,4
+Econometrics: Methods and Applications,Erasmus University Rotterdam,4.6,Mixed,12
+Using Machine Learning in Trading and Finance,New York Institute of Finance,3.9,Intermediate,12
+Introduction to Designing Data Lakes on AWS,Amazon Web Services,4.7,Intermediate,4
+Prediction and Control with Function Approximation,University of Alberta,4.8,Intermediate,12
+Fundamental Skills in Bioinformatics,King Abdullah University of Science and Technology,4.6,Beginner,4
+Unsupervised Machine Learning,IBM,4.7,Intermediate,12
+A Complete Reinforcement Learning System (Capstone),University of Alberta,4.7,Intermediate,12
+Generative AI: Enhance your Data Analytics Career,IBM,4.3,Intermediate,4
+Rust Fundamentals,Duke University,4.2,Beginner,4
+Data Visualization with Advanced Excel,PwC,4.8,Beginner,4
+An Intuitive Introduction to Probability,University of Zurich,4.8,Beginner,12
+Fundamentals of Scalable Data Science,IBM,4.3,Beginner,4
+Business Analytics Capstone,University of Pennsylvania,4.5,Intermediate,12
+Data Scientist Career Guide and Interview Preparation,IBM,4.8,Beginner,4
+GenAI for Everyone,Fractal Analytics,4.2,Beginner,4
+Custom and Distributed Training with TensorFlow,DeepLearning.AI,4.8,Intermediate,4
+Doing Economics: Measuring Climate Change,University of London,4.5,Beginner,4
+Data Analysis with R,IBM,4.7,Intermediate,12
+Statistics for Data Science with Python,IBM,4.5,Mixed,12
+Spatial Data Science and Applications,Yonsei University,4.4,Intermediate,12
+Research Data Management and Sharing,The University of North Carolina at Chapel Hill,4.7,Mixed,12
+SQL for Data Science with R,IBM,4.3,Beginner,12
+Doing More with SAS Programming,SAS,4.8,Intermediate,12
+Introduction to Relational Databases,Illinois Tech,4.3,Beginner,4
+Applied Calculus with Python,Johns Hopkins University,4.8,Intermediate,12
+Business Analysis Process,Tableau Learning Partner,4.6,Beginner,4
+Advanced Machine Learning and Signal Processing,IBM,4.5,Advanced,4
+Data Storage in Microsoft Azure,Microsoft,4.3,Intermediate,12
+AI and Disaster Management,DeepLearning.AI,4.8,Beginner,4
+Introduction to Data Analysis Using Excel,Rice University,4.7,Mixed,4
+Experimental Design Basics,Arizona State University,4.7,Intermediate,12
+Algorithms for DNA Sequencing,Johns Hopkins University,4.7,Mixed,4
+Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",4.8,Intermediate,12
+Supply Chain Software Tools,Unilever,4.4733898305084745,Beginner,4
+Advanced Data Visualization with Tableau,Tableau Learning Partner,4.9,Beginner,4
+Data Visualization with Tableau,Tableau Learning Partner,4.8,Beginner,12
+Probabilistic Graphical Models 2: Inference,Stanford University,4.6,Advanced,12
+Apache Spark (TM) SQL for Data Analysts,Databricks,4.5,Intermediate,12
+Distributed Computing with Spark SQL,"University of California, Davis",4.5,Intermediate,4
+"Generative AI: Impact, Considerations, and Ethical Issues",IBM,4.7,Beginner,4
+Linear Regression and Modeling,Duke University,4.8,Beginner,4
+Developing AI Applications on Azure,LearnQuest,4.4,Advanced,12
+Business Metrics for Data-Driven Companies,Duke University,4.6,Mixed,12
+Data Science Ethics,University of Michigan,4.7,Beginner,12
+Machine Translation,Karlsruhe Institute of Technology,4.5,Intermediate,12
+The Unix Workbench,Johns Hopkins University,4.7,Beginner,12
+Experimentation for Improvement,McMaster University,4.8,Intermediate,12
+Data Science in Health Technology Assessment,Genentech,4.4733898305084745,Intermediate,4
+Computer Vision with Embedded Machine Learning,Edge Impulse,4.8,Intermediate,4
+Data Integration with Microsoft Azure Data Factory,Microsoft,3.9,Intermediate,12
+Implementing Supply Chain Analytics,Unilever,4.4733898305084745,Beginner,4
+Generative AI: Business Transformation and Career Growth,IBM,4.7,Beginner,4
+Data Visualization and Communication with Tableau,Duke University,4.7,Mixed,12
+Command Line Tools for Genomic Data Science,Johns Hopkins University,4.0,Mixed,4
+Visual Analytics with Tableau,"University of California, Davis",4.6,Beginner,4
+Data Visualization,University of Illinois at Urbana-Champaign,4.5,Mixed,12
+Getting and Cleaning Data,Johns Hopkins University,4.5,Mixed,4
+A Crash Course in Data Science,Johns Hopkins University,4.5,Beginner,4
+Artificial Intelligence for Breast Cancer Detection,Johns Hopkins University,4.6,Intermediate,4
+Essential Design Principles for Tableau,"University of California, Davis",4.4,Beginner,4
+Introduction to Python Fundamentals,University of Colorado Boulder,4.7,Beginner,4
+Generative AI: Elevate Your Data Science Career,IBM,4.8,Intermediate,4
+"Spark, Hadoop, and Snowflake for Data Engineering",Duke University,3.6,Advanced,4
+Generative Deep Learning with TensorFlow,DeepLearning.AI,4.9,Intermediate,4
+Production Machine Learning Systems,Google Cloud,4.6,Advanced,12
+Responsible AI - Principles and Ethical Considerations,Fractal Analytics,4.0,Intermediate,12
+Fundamentals of Data Analytics in the Public Sector with R,University of Michigan,4.7,Intermediate,12
+"Applied Plotting, Charting & Data Representation in Python",University of Michigan,4.5,Intermediate,4
+Specialized Models: Time Series and Survival Analysis,IBM,4.5,Intermediate,4
+Microsoft Azure Databricks for Data Engineering,Microsoft,4.3,Intermediate,12
+Managing Big Data with MySQL,Duke University,4.7,Mixed,12
+Practical Time Series Analysis,The State University of New York,4.6,Intermediate,12
+Data Ecosystem,Tableau Learning Partner,4.6,Beginner,4
+"Foundations of Sports Analytics: Data, Representation, and Models in Sports",University of Michigan,4.4,Intermediate,12
+Microsoft Azure Machine Learning,Microsoft,4.4,Beginner,4
+Machine Learning Foundations: A Case Study Approach,University of Washington,4.6,Mixed,12
+Data Engineering with Rust,Duke University,3.4,Intermediate,4
+"Big Data, Artificial Intelligence, and Ethics","University of California, Davis",4.6,Beginner,4
+"Linear Algebra: Matrix Algebra, Determinants, & Eigenvectors",Johns Hopkins University,4.8,Mixed,12
+Guided Tour of Machine Learning in Finance,New York University,3.8,Intermediate,4
+Inferential Statistics,University of Amsterdam,4.3,Mixed,12
+Reinforcement Learning for Trading Strategies,New York Institute of Finance,3.6,Intermediate,4
+Exploratory Data Analysis,Johns Hopkins University,4.7,Mixed,4
+Applied AI with DeepLearning,IBM,4.4,Advanced,4
+Getting Started with SAS Visual Analytics,SAS,4.7,Beginner,4
+Foundations of Local Large Language models,Duke University,4.4733898305084745,Beginner,4
+Improving your statistical inferences,Eindhoven University of Technology,4.9,Intermediate,12
+MLOps Platforms: Amazon SageMaker and Azure ML,Duke University,3.8,Advanced,12
+Data Visualization with R,IBM,4.6,Beginner,4
+Principles of fMRI 1,Johns Hopkins University,4.6,Beginner,4
+Preparing for the SAS Programming Certification Exam,SAS,4.8,Intermediate,12
+Data Analysis with Tableau,Tableau Learning Partner,4.0,Beginner,4
+Deep Learning Applications for Computer Vision,University of Colorado Boulder,4.6,Intermediate,12
+Data Analysis with Spreadsheets and SQL,Meta,4.2,Beginner,12
+Launching into Machine Learning,Google Cloud,4.6,Beginner,12
+Excel Essentials and Beyond,Board Infinity ,4.4733898305084745,Beginner,12
+Data Science with R - Capstone Project,IBM,4.5,Intermediate,12
+Developing Data Models with LookML,Google Cloud,4.8,Intermediate,4
+Python Essentials for MLOps,Duke University,4.2,Intermediate,12
+Generative Pre-trained Transformers (GPT),University of Glasgow ,4.5,Intermediate,4
+Python Data Analytics,Meta,4.3,Beginner,4
+Practical SAS Programming and Certification Review,SAS,4.9,Intermediate,12
+Developing AI Policy,Fred Hutchinson Cancer Center,4.4733898305084745,Beginner,4
+Hadoop Platform and Application Framework,University of California San Diego,4.0,Mixed,12
+Machine Learning Rapid Prototyping with IBM Watson Studio,IBM ,4.3,Intermediate,4
+Programming for Data Science,University of Leeds,3.8,Beginner,4
+Math behind Moneyball,University of Houston,4.5,Beginner,12
+Designing Autonomous AI,University of Washington,4.7,Beginner,4
+Security for Artificial Intelligence Software and Services,Board Infinity ,4.4733898305084745,Intermediate,4
+Fundamentals of Machine Learning in Finance,New York University,3.8,Intermediate,4
+Statistics for Genomic Data Science,Johns Hopkins University,4.2,Mixed,4
+Text Mining and Analytics,University of Illinois at Urbana-Champaign,4.5,Mixed,12
+Probability and Statistics: To p or not to p?,University of London,4.6,Beginner,12
+Applied Text Mining in Python,University of Michigan,4.2,Intermediate,4
+Inferential Statistical Analysis with Python,University of Michigan,4.6,Intermediate,4
+Linear Regression,Illinois Tech,4.5,Intermediate,4
+Structured Query Language (SQL) using SAS,SAS,4.9,Mixed,12
+Text Retrieval and Search Engines,University of Illinois at Urbana-Champaign,4.5,Mixed,12
+الأسس: البيانات، البيانات في كل مكان,Google,4.7,Beginner,12
+Generalized Linear Models and Nonparametric Regression,University of Colorado Boulder,4.4,Intermediate,4
+Geospatial Analysis with ArcGIS,"University of California, Davis",4.4,Intermediate,4
+MLOps Tools: MLflow and Hugging Face,Duke University,3.5,Advanced,4
+Azure Data Lake Storage Gen2 and Data Streaming Solution,Microsoft,4.2,Intermediate,4
+Statistical Inference,Johns Hopkins University,4.2,Mixed,4
+Creating Dashboards and Storytelling with Tableau,"University of California, Davis",4.6,Beginner,4
+Exploratory Data Analysis with MATLAB,MathWorks,4.8,Beginner,12
+"Data Science with NumPy, Sets, and Dictionaries",Duke University,4.4733898305084745,Beginner,4
+Introduction to Big Data,University of California San Diego,4.6,Mixed,12
+Prepare for DP-203: Data Engineering on Microsoft Azure Exam,Microsoft,4.4,Intermediate,4
+Communicating Data Insights with Tableau,Tableau Learning Partner,4.1,Beginner,4
+Introduction to Deep Learning for Computer Vision,MathWorks,4.4733898305084745,Intermediate,4
+Python and Pandas for Data Engineering,Duke University,4.6,Beginner,4
+Microsoft Azure Machine Learning for Data Scientists,Microsoft,4.4,Intermediate,4
+Big Data Modeling and Management Systems,University of California San Diego,4.4,Mixed,12
+Use Generative AI as Your Thought Partner,Coursera ,4.4733898305084745,Beginner,4
+"Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",Rice University,4.7,Mixed,4
+Data Warehousing with Microsoft Azure Synapse Analytics,Microsoft,4.0,Intermediate,12
+Getting Started with Data Visualization in R,Johns Hopkins University,4.7,Beginner,4
+"Introduction to Data, Signal, and Image Analysis with MATLAB",Vanderbilt University,4.7,Intermediate,12
+Advanced SAS Programming Techniques,SAS,4.8,Intermediate,12
+Statistics in Psychological Research,American Psychological Association,4.6,Beginner,12
+Introduction to Statistical Analysis:  Hypothesis Testing,SAS,4.6,Intermediate,4
+Mastering Data Analysis in Excel,Duke University,4.2,Mixed,12
+Bioconductor for Genomic Data Science,Johns Hopkins University,3.8,Mixed,4
+Applied Data Science for Data Analysts,Databricks,4.5,Intermediate,12
+Bayesian Statistics: Time Series Analysis,"University of California, Santa Cruz",4.5,Intermediate,12
+Python Packages for Data Science,University of Colorado Boulder,4.4,Intermediate,4
+Introduction to Microsoft Azure Synapse Analytics,Microsoft,3.9,Intermediate,12
+Natural Language Processing in Microsoft Azure,Microsoft,4.7,Beginner,4
+Reinforcement Learning in Finance,New York University,3.5,Advanced,4
+How Google does Machine Learning,Google Cloud,4.6,Beginner,12
+Bayesian Statistics: Mixture Models,"University of California, Santa Cruz",4.6,Intermediate,12
+Data Visualization with Tableau Project,"University of California, Davis",4.6,Intermediate,12
+Natural Language Processing on Google Cloud,Google Cloud,4.4,Advanced,12
+Setting a Generative AI Strategy,Coursera ,5.0,Beginner,4
+Introduction to R Programming and Tidyverse,University of Colorado Boulder,4.3,Beginner,4
+Regression Models,Johns Hopkins University,4.4,Mixed,4
+Data Engineering with MS Azure Synapse Apache Spark Pools,Microsoft,3.7,Intermediate,4
+Introduction to Python Functions,University of Colorado Boulder,4.8,Beginner,4
+Building Production-Ready Apps with Large Language Models,Coursera Instructor Network,4.4733898305084745,Intermediate,4
+"DevOps, DataOps, MLOps",Duke University,3.8,Advanced,12
+Reproducible Research,Johns Hopkins University,4.6,Mixed,4
+Machine Learning Operations (MLOps): Getting Started,Google Cloud,4.0,Intermediate,4
+Data Science in Stratified Healthcare and Precision Medicine,The University of Edinburgh,4.6,Intermediate,12
+Operational Analytics with Microsoft Azure Synapse Analytics,Microsoft,4.5,Intermediate,4
+Getting Started with CyberGIS,University of Illinois at Urbana-Champaign,4.1,Beginner,12
+TensorFlow on Google Cloud,Google Cloud,4.4,Intermediate,12
+Preparing for AI-900: Microsoft Azure AI Fundamentals exam,Microsoft,4.7,Beginner,4
+Introduction to Data Analytics for Business,University of Colorado Boulder,4.7,Beginner,4
+Statistics with SAS,SAS,4.7,Intermediate,12
+Introduction to Machine Learning: Supervised Learning,University of Colorado Boulder,3.4,Intermediate,12
+SQL for Data Science Capstone Project,"University of California, Davis",4.2,Intermediate,4
+Build and Operate Machine Learning Solutions with Azure,Microsoft,4.1,Intermediate,12
+Machine Learning: Classification,University of Washington,4.7,Mixed,12
+Introduction to Data Analytics for Accounting Professionals,Association of International Certified Professional Accountants,4.7,Beginner,4
+Data Analysis and Presentation Skills: the PwC Approach Final Project,PwC,4.7,Beginner,12
+Data Science for Business Innovation,EIT Digital ,4.3,Beginner,4
+Statistical Learning,Illinois Tech,4.4733898305084745,Intermediate,12
+Modern Regression Analysis in R,University of Colorado Boulder,4.5,Intermediate,12
+Statistical Inference and Hypothesis Testing in Data Science Applications,University of Colorado Boulder,4.7,Intermediate,12
+Solve Business Problems with AI and Machine Learning,CertNexus,4.3,Intermediate,4
+"Build AI Apps with ChatGPT, Dall-E, and GPT-4",Scrimba,4.3,Intermediate,4
+Code Free Data Science,University of California San Diego,4.3,Beginner,4
+MongoDB Aggregation Framework,MongoDB Inc.,4.5,Intermediate,4
+Causal Inference,Columbia University,3.1,Advanced,12
+Statistical Inference for Estimation in Data Science,University of Colorado Boulder,4.0,Intermediate,12
+Building a Data Science Team,Johns Hopkins University,4.5,Mixed,4
+Advanced Data Science Capstone,IBM,4.6,Advanced,4
+Prediction Models with Sports Data,University of Michigan,4.6,Intermediate,12
+Fitting Statistical Models to Data with Python,University of Michigan,4.4,Intermediate,4
+Snowflake - SnowPro Core Certification Preparation,Board Infinity ,4.4733898305084745,Intermediate,4
+"Statistics and Data Analysis with Excel, Part 2",University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Practical Decision-Making Using No-code ML on AWS,Amazon Web Services,4.5,Beginner,4
+Data-Driven Animation for Science Communication,"University of California, Santa Cruz",4.8,Intermediate,12
+Data Visualization for Genome Biology,University of Toronto,4.4733898305084745,Intermediate,12
+"Understanding China, 1700-2000: A Data Analytic Approach, Part 1",The Hong Kong University of Science and Technology,4.6,Mixed,12
+Data intelligence for businesses and managers,Institut Mines-Télécom,4.4733898305084745,Beginner,12
+أساسيات مايكروسوفت آوتلوك | Microsoft Outlook Fundamentals,Alfaisal University | KLD,4.8,Beginner,4
+Landing.AI for Beginners: Build Data Visualization AI Models,Coursera Project Network,4.4733898305084745,Beginner,4
+Healthcare Information Design and Visualizations,Northeastern University ,4.4733898305084745,Beginner,4
+Interprofessional Healthcare Informatics,University of Minnesota,4.5,Mixed,12
+Introduction to Recommender Systems:  Non-Personalized and Content-Based,University of Minnesota,4.4,Intermediate,12
+Exploratory Data Analysis for the Public Sector with ggplot,University of Michigan,5.0,Intermediate,4
+Improving Your Statistical Questions,Eindhoven University of Technology,4.9,Intermediate,12
+Practical Machine Learning,Johns Hopkins University,4.5,Mixed,4
+Data Science as a Field,University of Colorado Boulder,4.3,Intermediate,4
+Deep Learning for Object Detection,MathWorks,4.4733898305084745,Intermediate,4
+Sourcing Analytics,Rutgers the State University of New Jersey,4.4733898305084745,Beginner,4
+The Role of the CEO in Navigating GenAI,Coursera ,5.0,Beginner,4
+Machine Learning: Regression,University of Washington,4.8,Mixed,12
+Developing Data Products,Johns Hopkins University,4.6,Mixed,12
+AI Workflow: Business Priorities and Data Ingestion,IBM ,4.3,Intermediate,4
+AI Workflow: AI in Production,IBM ,4.4,Advanced,4
+AI Workflow: Data Analysis and Hypothesis Testing,IBM ,4.2,Advanced,4
+AI Workflow: Feature Engineering and Bias Detection,IBM ,4.3,Advanced,4
+Intro to AI Engineering,Scrimba,4.3,Intermediate,4
+Making Data Science Work for Clinical Reporting,Genentech,4.4733898305084745,Intermediate,12
+Data Science Fundamentals for Data Analysts,Databricks,4.2,Intermediate,12
+ML Pipelines on Google Cloud,Google Cloud,3.5,Advanced,12
+Statistical Analysis Fundamentals using Excel,IBM,4.4733898305084745,Intermediate,12
+Advanced Deep Learning Methods for Healthcare,University of Illinois at Urbana-Champaign,2.5,Advanced,4
+Introduction to Clinical Data Science,University of Colorado System,4.5,Intermediate,4
+Data Processing and Feature Engineering with MATLAB,MathWorks,4.7,Intermediate,12
+Data Storage in Microsoft Azure for Associate Developers,Microsoft,4.5,Intermediate,12
+Practicing for the SAS Programming Certification Exam,SAS,4.8,Intermediate,4
+Predictive Modeling and Machine Learning with MATLAB,MathWorks,4.8,Intermediate,4
+Learn Embeddings and Vector Databases,Scrimba,4.4733898305084745,Intermediate,4
+The R Programming Environment,Johns Hopkins University,4.3,Intermediate,12
+Data Engineering in AWS,Whizlabs,3.4,Beginner,4
+Applied Social Network Analysis in Python,University of Michigan,4.6,Intermediate,4
+"Statistics and Data Analysis with Excel, Part 1",University of Colorado Boulder,4.4733898305084745,Beginner,12
+Data Science Capstone,Johns Hopkins University,4.5,Mixed,12
+Mathematical Biostatistics Boot Camp 2,Johns Hopkins University,4.3,Mixed,4
+Regression and Classification,University of Colorado Boulder,3.5,Intermediate,12
+Data Storytelling,"University of California, Irvine",3.7,Mixed,4
+Probabilistic Graphical Models 3: Learning,Stanford University,4.6,Advanced,12
+Serverless Data Processing with Dataflow: Foundations,Google Cloud,4.2,Intermediate,12
+Serverless Data Processing with Dataflow: Develop Pipelines,Google Cloud,4.1,Advanced,12
+Data Visualization Best Practices,"University of California, Irvine",3.9,Mixed,4
+"Data – What It Is, What We Can Do With It",Johns Hopkins University,4.6,Beginner,4
+Population Health: Predictive Analytics,Universiteit Leiden,4.6,Intermediate,12
+Introduction to Data Visualization in Qlik Sense,Coursera Instructor Network,4.4733898305084745,Beginner,4
+Introduction to Deep Learning,University of Colorado Boulder,3.6,Intermediate,12
+Clinical Data Models and Data Quality Assessments,University of Colorado System,4.2,Intermediate,12
+Big Data Integration and Processing,University of California San Diego,4.4,Beginner,12
+Recommendation Systems on Google Cloud,Google Cloud,4.5,Advanced,12
+Feature Engineering,Google Cloud,4.5,Intermediate,12
+"Response Surfaces, Mixtures, and Model Building",Arizona State University,4.7,Intermediate,4
+"Random Models, Nested and Split-plot Designs",Arizona State University,4.6,Intermediate,4
+Principles of fMRI 2,Johns Hopkins University,4.7,Mixed,4
+Introduction to Neurohacking In R,Johns Hopkins University,4.6,Intermediate,4
+Follow a Machine Learning Workflow,CertNexus,4.6,Intermediate,12
+Machine Learning Algorithms: Supervised Learning Tip to Tail,Alberta Machine Intelligence Institute,4.7,Mixed,4
+Introduction to the Tidyverse,Johns Hopkins University,4.3,Beginner,12
+"Extract, Transform, and Load Data",CertNexus,4.8,Intermediate,4
+Scalable Machine Learning on Big Data using Apache Spark,IBM,3.8,Intermediate,4
+Doing Clinical Research: Biostatistics with the Wolfram Language,University of Cape Town,4.7,Beginner,4
+Getting started with TensorFlow 2,Imperial College London,4.9,Intermediate,12
+Introduction to Vertex AI,Fractal Analytics,4.4733898305084745,Beginner,4
+Model Diagnostics and Remedial Measures,Illinois Tech,4.4733898305084745,Intermediate,4
+AI Workflow: Enterprise Model Deployment,IBM ,4.2,Advanced,4
+Global Statistics - Composite Indices for International Comparisons,University of Geneva,4.6,Intermediate,12
+Promote the Ethical Use of Data-Driven Technologies,CertNexus,4.7,Beginner,12
+Advanced Deep Learning Techniques for Computer Vision,MathWorks,4.4733898305084745,Intermediate,4
+Business Analytics for Decision Making,University of Colorado Boulder,4.6,Beginner,4
+Factorial and Fractional Factorial Designs,Arizona State University,4.7,Intermediate,4
+Moneyball and Beyond,University of Michigan,4.6,Intermediate,12
+Introduction to Machine Learning in Sports Analytics,University of Michigan,4.6,Intermediate,4
+ANOVA and Experimental Design,University of Colorado Boulder,3.9,Intermediate,4
+Insights of Power BI,Fractal Analytics,4.4,Beginner,4
+Data Mining Pipeline,University of Colorado Boulder,3.3,Intermediate,4
+Stability and Capability in Quality Improvement,University of Colorado Boulder,4.6,Intermediate,12
+Supervised Text Classification for Marketing Analytics,University of Colorado Boulder,3.4,Beginner,4
+Measurement Systems Analysis,University of Colorado Boulder,4.3,Intermediate,12
+Computational Social Science Methods,"University of California, Davis",4.7,Beginner,4
+Predictive Modeling and Analytics,University of Colorado Boulder,3.6,Intermediate,4
+Information Visualization: Applied Perception,New York University,4.7,Beginner,4
+Machine Learning in the Enterprise,Google Cloud,4.6,Intermediate,12
+Bayesian Statistics: Capstone Project,"University of California, Santa Cruz",4.4733898305084745,Advanced,4
+Basic Programming in Python I,Northeastern University ,4.4733898305084745,Beginner,12
+Basic Programming in Python II,Northeastern University ,4.4733898305084745,Beginner,4
+"Virtualization, Docker, and Kubernetes for Data Engineering",Duke University,3.4,Advanced,4
+Data Visualization in R with ggplot2,Johns Hopkins University,4.9,Intermediate,4
+Empowering and Transforming Your Organization with GenAI,Coursera ,4.4733898305084745,Beginner,4
+Navigating Generative AI Risks for Leaders,Coursera ,4.4733898305084745,Beginner,4
+Data mining of Clinical Databases - CDSS 1,University of Glasgow ,4.8,Intermediate,4
+Computer Vision Fundamentals with Google Cloud,Google Cloud,4.6,Advanced,12
+Data Visualization with Tableau,Board Infinity ,4.4733898305084745,Beginner,4
+Data Analysis Using SQL,Fractal Analytics,4.8,Beginner,12
+Data Science in Real Life,Johns Hopkins University,4.5,Mixed,4
+Turn Ethical Frameworks into Actionable Steps,CertNexus,4.6,Beginner,12
+Explainable deep learning models for healthcare - CDSS 3,University of Glasgow ,4.8,Intermediate,4
+"Build Decision Trees, SVMs, and Artificial Neural Networks",CertNexus,4.9,Intermediate,12
+"Build Regression, Classification, and Clustering Models",CertNexus,4.2,Intermediate,12
+Managing Machine Learning Projects with Google Cloud,Google Cloud,4.6,Beginner,12
+Introduction to Applied Machine Learning,Alberta Machine Intelligence Institute,4.7,Intermediate,4
+Data for Machine Learning,Alberta Machine Intelligence Institute,4.4,Intermediate,4
+Wrangling Data in the Tidyverse,Johns Hopkins University,4.5,Mixed,12
+Advanced R Programming,Johns Hopkins University,4.2,Intermediate,12
+Data Management and Visualization,Wesleyan University,4.4,Mixed,12
+Foundations for Big Data Analysis with SQL,Cloudera,4.8,Beginner,12
+Wearable Technologies and Sports Analytics,University of Michigan,4.6,Intermediate,12
+Linear Algebra: Orthogonality and Diagonalization,Johns Hopkins University,4.9,Intermediate,4
+Machine Learning: Clustering & Retrieval,University of Washington,4.7,Mixed,12
+Machine Learning for Computer Vision,MathWorks,4.9,Intermediate,4
+Social Network Analysis,"University of California, Davis",4.7,Beginner,12
+Customising your models with TensorFlow 2,Imperial College London,4.8,Intermediate,12
+Linear Regression for Business Statistics,Rice University,4.8,Mixed,4
+Advanced Data Visualization with R,Johns Hopkins University,4.9,Mixed,4
+Scripting with Python and SQL for Data Engineering,Duke University,4.4,Intermediate,4
+Structured Approach to Problem Solving,Fractal Analytics,4.8,Beginner,4
+Python for Data Science,Fractal Analytics,3.9,Beginner,12
+Graph Analytics for Big Data,University of California San Diego,4.3,Mixed,12
+Data Visualization with Python,Duke University,3.8,Intermediate,4
+Arranging and Visualizing Data in R,University of Michigan,4.4733898305084745,Intermediate,4
+Analyzing Big Data with SQL,Cloudera,4.8,Beginner,12
+Linear Regression Modeling for Health Data,University of Michigan,4.4733898305084745,Intermediate,4
+Logistic Regression and Prediction for Health Data,University of Michigan,4.4733898305084745,Intermediate,4
+Dashboarding and Deployment,"University of California, Irvine",5.0,Mixed,4
+Regression Modeling Fundamentals,SAS,4.7,Intermediate,12
+Overview: Six Sigma and the Organization,SkillUp EdTech,4.4733898305084745,Beginner,4
+The DMAIC Framework - Define and Measure Phase,SkillUp EdTech,4.4733898305084745,Beginner,12
+"The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats",SAS,4.8,Beginner,12
+Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership,SAS,4.8,Beginner,4
+Data Analysis and Reporting in SAS Visual Analytics,SAS,4.8,Mixed,4
+Health Data Science Foundation,University of Illinois at Urbana-Champaign,2.9,Advanced,4
+"AI Workflow: Machine Learning, Visual Recognition and NLP",IBM ,4.5,Advanced,4
+Basic Data Processing and Visualization,University of California San Diego,4.3,Intermediate,12
+Advanced Data Analysis and Collaboration in Qlik Sense,Coursera Instructor Network,4.4733898305084745,Advanced,4
+Publishing Visualizations in R with Shiny and flexdashboard,Johns Hopkins University,4.9,Mixed,4
+طرح الأسئلة لاتخاذ قرارات قائمة على البيانات,Google,4.9,Beginner,4
+Information Visualization: Advanced Techniques,New York University,4.8,Intermediate,4
+Machine Learning: Concepts and Applications,The University of Chicago,3.3,Intermediate,12
+Advanced AI Techniques for the Supply Chain,LearnQuest,3.4,Intermediate,4
+Data Manipulation at Scale: Systems and Algorithms,University of Washington,4.3,Mixed,12
+Introduction to Reproducibility in Cancer Informatics,Johns Hopkins University,4.4733898305084745,Intermediate,12
+Measurement – Turning Concepts into Data,Johns Hopkins University,4.8,Beginner,4
+Demand Forecasting Using Time Series,LearnQuest,3.3,Intermediate,4
+Introduction to Bayesian Statistics,Databricks,3.6,Beginner,4
+"Intro to Analytic Thinking, Data Science, and Data Mining","University of California, Irvine",4.2,Intermediate,4
+Probabilistic Deep Learning with TensorFlow 2,Imperial College London,4.7,Advanced,12
+Introduction to PyMC3 for Bayesian Modeling and Inference,Databricks,3.9,Beginner,4
+Bayesian Inference with MCMC,Databricks,3.3,Beginner,4
+Deep learning in Electronic Health Records - CDSS 2,University of Glasgow ,4.4733898305084745,Intermediate,4
+Human Decision Making and its Biases,Fractal Analytics,5.0,Beginner,4
+Machine Learning With Big Data,University of California San Diego,4.6,Mixed,12
+Identifying Patient Populations,University of Colorado System,4.5,Intermediate,12
+"Managing, Describing, and Analyzing Data",University of Colorado Boulder,4.6,Beginner,12
+DataOps Methodology,IBM,4.7,Beginner,12
+"Business Intelligence Concepts, Tools, and Applications",University of Colorado System,4.5,Mixed,12
+Fundamental Tools of Data Wrangling,University of Colorado Boulder,4.7,Beginner,12
+Building R Packages,Johns Hopkins University,4.1,Intermediate,4
+Data Wrangling with Python Project,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+AWS: Security in Data Analytics,Whizlabs,4.4733898305084745,Beginner,4
+Nearest Neighbor Collaborative Filtering,University of Minnesota,4.3,Mixed,12
+Business Applications of Hypothesis Testing and Confidence Interval Estimation,Rice University,4.8,Mixed,4
+Business Statistics and Analysis Capstone,Rice University,4.7,Mixed,4
+Modeling Data in the Tidyverse,Johns Hopkins University,4.6,Mixed,12
+Visualizing Data in the Tidyverse,Johns Hopkins University,4.7,Mixed,12
+Importing Data in the Tidyverse,Johns Hopkins University,4.7,Beginner,12
+Fundamentals of Data Analysis,LearnQuest,3.9,Beginner,12
+Advanced Linear Models for Data Science 1: Least Squares,Johns Hopkins University,4.5,Advanced,12
+Clinical Decision Support Systems - CDSS 4,University of Glasgow ,4.4733898305084745,Intermediate,4
+Capstone Assignment - CDSS 5,University of Glasgow ,4.4733898305084745,Intermediate,4
+Exploratory Data Analysis in AWS,Whizlabs,4.4733898305084745,Beginner,4
+Introduction to Predictive Modeling,University of Minnesota,4.8,Mixed,4
+Data Storytelling,Fractal Analytics,4.9,Beginner,4
+Foundations of Machine Learning,Fractal Analytics,5.0,Beginner,12
+Communicate Effectively about Ethical Challenges in Data-Driven Technologies,CertNexus,4.4,Beginner,12
+Detect and Mitigate Ethical Risks,CertNexus,4.5,Beginner,12
+Create and Lead an Ethical Data-Driven Organization,CertNexus,4.6,Beginner,12
+Framework for Data Collection and Analysis,"University of Maryland, College Park",4.2,Intermediate,4
+Bayesian Statistics,Duke University,3.8,Intermediate,12
+Communicating Business Analytics Results,University of Colorado Boulder,4.5,Intermediate,4
+Recommender Systems:  Evaluation and Metrics,University of Minnesota,4.4,Mixed,12
+Advanced Business Analytics Capstone,University of Colorado Boulder,4.3,Intermediate,4
+Julia Scientific Programming,University of Cape Town,4.4,Beginner,4
+New Ways of Working in an AI World,London Business School,4.4733898305084745,Intermediate,12
+Quantifying Relationships with Regression Models,Johns Hopkins University,4.6,Intermediate,4
+Advanced Clinical Data Science,University of Colorado System,4.8,Intermediate,4
+Cluster Analysis in Data Mining,University of Illinois at Urbana-Champaign,4.5,Mixed,12
+Pattern Discovery in Data Mining,University of Illinois at Urbana-Champaign,4.3,Mixed,12
+Case studies in business analytics with ACCENTURE,ESSEC Business School,3.7,Mixed,4
+Deep Learning Methods for Healthcare,University of Illinois at Urbana-Champaign,3.7,Advanced,4
+Increasing Real Estate Management Profits: Harnessing Data Analytics,Duke University,4.7,Mixed,12
+Clinical Natural Language Processing,University of Colorado System,3.6,Intermediate,12
+Advanced Machine Learning Algorithms,Fractal Analytics,4.4733898305084745,Beginner,12
+Computer Simulations,"University of California, Davis",4.5,Beginner,4
+AI-Driven Attribution Testing,Board Infinity ,4.4733898305084745,Intermediate,4
+Neural Networks and Random Forests,LearnQuest,2.9,Intermediate,4
+تجهيز البيانات للاستكشاف,Google,4.9,Beginner,12
+معالجة البيانات من غير نظيفة إلى نظيفة,Google,4.9,Beginner,12
+تحليل البيانات باستخدام البرمجة R,Google,4.5,Beginner,12
+Leveraging Virtual Assistants for Personal Productivity,Coursera Instructor Network,4.5,Beginner,4
+Fundamentals of Machine Learning for Supply Chain,LearnQuest,3.8,Beginner,4
+Data Literacy Essentials,SAS,4.4733898305084745,Beginner,4
+Optimization for Decision Making,University of Minnesota,4.8,Beginner,4
+Nursing Informatics Leadership Theory and Practice,University of Minnesota,4.7,Beginner,12
+Hypothesis Testing with Python and Excel,Tufts University,4.1,Intermediate,4
+Mastering Software Development in R Capstone,Johns Hopkins University,4.0,Intermediate,12
+Computational Social Science Capstone Project,"University of California, Davis",4.6,Intermediate,4
+Data Analysis in R with RStudio & Tidyverse,Codio,4.3,Beginner,12
+Managing Big Data in Clusters and Cloud Storage,Cloudera,4.7,Beginner,12
+Identifying the Right Role for Yourself,"University of California, Irvine",4.4733898305084745,Beginner,4
+The Total Data Quality Framework,University of Michigan,4.5,Beginner,4
+SAS® Programming for Distributed Computing in SAS® Viya®,SAS,4.9,Advanced,12
+"Interviewing, Negotiating a Job Offer, and Career Planning","University of California, Irvine",4.4733898305084745,Beginner,4
+Databricks to Local LLMs,Duke University,4.4733898305084745,Beginner,4
+Artificial Intelligence Algorithms Models and Limitations,LearnQuest,4.7,Beginner,4
+Data Analyst Career Guide and Interview Preparation,IBM,4.6,Beginner,4
+Artificial Intelligence Ethics in Action,LearnQuest,4.6,Intermediate,4
+"Cluster Analysis, Association Mining, and Model Evaluation","University of California, Irvine",4.5,Intermediate,4
+Fundamentals of Data Visualization,University of Colorado Boulder,4.7,Intermediate,4
+Relational database systems,Universidad Nacional Autónoma de México,4.4,Intermediate,12
+Data Mining Methods,University of Colorado Boulder,3.9,Intermediate,4
+Unsupervised Algorithms in Machine Learning,University of Colorado Boulder,3.9,Intermediate,4
+Predictive Modeling with Logistic Regression using SAS,SAS,4.6,Intermediate,12
+Enjoyable Econometrics,Erasmus University Rotterdam,4.1,Beginner,12
+Ethical Issues in Data Science,University of Colorado Boulder,4.6,Beginner,12
+Amazon Bedrock - Getting Started with Generative AI,Amazon Web Services,4.4,Beginner,4
+Planning a Generative AI Project,Amazon Web Services,4.7,Mixed,4
+Data Mining Project,University of Colorado Boulder,4.3,Intermediate,4
+NoSQL systems,Universidad Nacional Autónoma de México,4.3,Intermediate,12
+Big Data - Capstone Project,University of California San Diego,4.4,Mixed,12
+Artificial Intelligence Privacy and Convenience,LearnQuest,4.7,Intermediate,4
+Automated Report Generation with Generative AI,Coursera Instructor Network,4.4733898305084745,Beginner,4
+Address Business Issues with Data Science,CertNexus,4.5,Intermediate,4
+"Predictive Modeling, Model Fitting, and Regression Analysis","University of California, Irvine",4.4,Intermediate,4
+Introduction to Data Science and scikit-learn in Python,LearnQuest,3.8,Beginner,4
+Business intelligence and data warehousing,Universidad Nacional Autónoma de México,3.9,Intermediate,12
+Data Analysis Tools,Wesleyan University,4.5,Mixed,4
+Design and Build a Data Warehouse for Business Intelligence Implementation,University of Colorado System,4.6,Mixed,12
+Data Analysis in Python with pandas & matplotlib in Spyder,Codio,3.1,Beginner,12
+Exploratory Data Analysis,University of Leeds,4.4733898305084745,Intermediate,4
+Advanced Models for Decision Making,University of Minnesota,4.8,Beginner,4
+Amazon CodeWhisperer - Getting Started with Generative AI,Amazon Web Services,4.3,Beginner,4
+Visualization for Data Journalism,University of Illinois at Urbana-Champaign,4.5,Beginner,12
+Data Preparation and Analysis,Illinois Tech,4.4733898305084745,Intermediate,12
+Analyze Data,CertNexus,4.7,Intermediate,12
+Simulation Models for Decision Making,University of Minnesota,4.6,Beginner,4
+Machine Learning for Data Analysis,Wesleyan University,4.2,Mixed,4
+Relational Database Support for Data Warehouses,University of Colorado System,4.6,Mixed,12
+Data Analysis with Tidyverse,University of Colorado Boulder,4.4733898305084745,Beginner,12
+Building a Generative AI-Ready Organization,Amazon Web Services,4.1,Beginner,4
+Regression Modeling in Practice,Wesleyan University,4.4,Mixed,4
+Web of Data,EIT Digital ,4.1,Intermediate,4
+R Programming and Tidyverse Capstone Project,University of Colorado Boulder,4.4733898305084745,Beginner,4
+Train Machine Learning Models,CertNexus,4.4733898305084745,Intermediate,12
+Designing data-intensive applications,Universidad Nacional Autónoma de México,4.4,Intermediate,4
+Data Visualization,Ball State University,4.4733898305084745,Intermediate,12
+Basic Recommender Systems,EIT Digital ,4.3,Intermediate,4
+"Variable Selection, Model Validation, Nonlinear Regression",Illinois Tech,4.4733898305084745,Intermediate,4
+Design Thinking for Data Professionals,Fractal Analytics,4.4733898305084745,Intermediate,12
+Relational Database Implementation and Applications,Illinois Tech,4.4733898305084745,Intermediate,12
+"Defining, Describing, and Visualizing Data",University of Colorado Boulder,4.4733898305084745,Beginner,12
+Capstone Project: Advanced AI for Drug Discovery,LearnQuest,1.9,Intermediate,4
+Machine Learning Using SAS Viya,SAS,4.7,Intermediate,12
+"Resampling, Selection and Splines",University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Machine Learning Models in Science,LearnQuest,3.8,Intermediate,4
+AWS: Data Collection Systems,Whizlabs,4.8,Beginner,4
+Classification Analysis,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Unsupervised Text Classification for Marketing Analytics,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Customer Data Analytics for Marketers,University of Colorado System,4.4733898305084745,Intermediate,4
+AI-Enhanced Presentations Captivating Audiences with TOME,Coursera Instructor Network,4.4733898305084745,Beginner,4
+"Trees, SVM and Unsupervised Learning",University of Colorado Boulder,4.4733898305084745,Intermediate,4
+Finalize a Data Science Project,CertNexus,4.4733898305084745,Intermediate,4
+"Data Ingestion, Exploration & Visualization in Qlik Sense",Coursera Instructor Network,4.4733898305084745,Intermediate,4
+Network Analysis for Marketing Analytics,University of Colorado Boulder,4.4733898305084745,Intermediate,4
+تحليل البيانات للإجابة عن الأسئلة,Google,4.7,Beginner,4
+User Awareness and Education for Generative AI,Coursera Instructor Network,4.4733898305084745,Beginner,4
+Advanced Linear Models for Data Science 2: Statistical Linear Models,Johns Hopkins University,4.5,Advanced,4
+Population Health: Responsible Data Analysis,Universiteit Leiden,4.5,Beginner,12
+Natural Language Processing and Capstone Assignment,"University of California, Irvine",4.6,Intermediate,4
+Creating Features for Time Series Data,SAS,4.4733898305084745,Intermediate,12
+Build a Data Warehouse Using BigQuery,Starweaver,4.4733898305084745,Advanced,4
+Design Thinking and Predictive Analytics for Data Products,University of California San Diego,4.5,Intermediate,12
+AWS: Data Analysis and Visualization,Whizlabs,4.4733898305084745,Beginner,4
+Public Engagement for Scientists,Illinois Tech,4.4733898305084745,Intermediate,12
+Data Collection and Integration,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Creating Advanced Reports with SAS Visual Analytics,SAS,4.7,Intermediate,4
+"Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls",SAS,4.9,Beginner,4
+The Rise of Generative AI,Board Infinity ,4.4733898305084745,Beginner,4
+AI-Enhanced Content Creation:Elevate Copywriting with Humata,Coursera Instructor Network,4.4733898305084745,Beginner,4
+"Data Acquisition, Risk, and Estimation",University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Modeling Time Series and Sequential Data,SAS,4.4733898305084745,Intermediate,12
+Modeling in AWS,Whizlabs,4.4733898305084745,Beginner,4
+LangChain: Application Development Essentials,Coursera Instructor Network,4.4733898305084745,Beginner,4
+Data Science Project: MATLAB for the Real World,MathWorks,4.8,Intermediate,4
+Data Driven Decision Making,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Data Processing and Manipulation,University of Colorado Boulder,4.4733898305084745,Intermediate,4
+Power BI for Data Science and Analytics,Edureka,4.4733898305084745,Intermediate,4
+Building Data Visualization Tools,Johns Hopkins University,4.0,Intermediate,12
+ML Algorithms,Whizlabs,4.4733898305084745,Beginner,4
+Data Understanding and Visualization,University of Colorado Boulder,4.4733898305084745,Intermediate,4
+Automation for Everyone: Tech Benefits Unleashed,Coursera Instructor Network,4.4733898305084745,Beginner,4
+Matrix Factorization and Advanced Techniques,University of Minnesota,4.3,Mixed,12
+3D Data Visualization for Science Communication,University of Illinois at Urbana-Champaign,4.4733898305084745,Beginner,12
+Machine Teaching for Autonomous AI,University of Washington,4.8,Beginner,4
+AWS Data Processing,Whizlabs,4.4733898305084745,Beginner,4
+Clustering Analysis,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Regression Analysis,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Practical Predictive Analytics: Models and Methods,University of Washington,4.1,Mixed,4
+Deploying Machine Learning Models,University of California San Diego,3.5,Mixed,12
+Practical Machine Learning on H2O,H2O,4.5,Intermediate,12
+Advanced Recommender Systems,EIT Digital ,3.7,Intermediate,12
+Data Literacy in Practice,SAS,4.4733898305084745,Beginner,4
+Functional Programming in Scala Capstone,École Polytechnique Fédérale de Lausanne,4.4,Mixed,12
+"Performing Network, Path, and Text Analyses in SAS Visual Analytics",SAS,4.7,Intermediate,4
+Measuring Total Data Quality,University of Michigan,4.4733898305084745,Beginner,4
+"The DMAIC Framework: Analyze, Improve, and Control Phase",SkillUp EdTech,4.4733898305084745,Beginner,12
+ChatGPT Teach-Out,University of Michigan,4.5,Mixed,4
+Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics,SAS,4.8,Intermediate,4
+Data Visualization Capstone,Johns Hopkins University,5.0,Mixed,4
+Machine Learning Implementation and Operations in AWS,Whizlabs,4.4733898305084745,Beginner,4
+Generative AI's Applications in Marketing Analytics,Edureka,4.4733898305084745,Beginner,4
+Recommender Systems Capstone,University of Minnesota,4.1,Mixed,4
+مشاركة البيانات من خلال فن مؤثرات عرض التصور,Google,4.6,Beginner,4
+Data Science Companion,MathWorks,5.0,Beginner,4
+Association Rules Analysis,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Leadership and Team Management,SkillUp EdTech,4.4733898305084745,Intermediate,4
+Dealing With Missing Data,"University of Maryland, College Park",3.8,Mixed,12
+Serverless Data Processing with Dataflow: Operations,Google Cloud,3.6,Advanced,12
+مشروع كابستون لشهادة تحليلات البيانات من Google: الانتهاء من دراسة الحالة,Google,4.9,Beginner,4
+Intro to Lean Six Sigma and Project Identification Methods,SkillUp EdTech,4.4733898305084745,Beginner,4
+Capstone Project: Predicting Safety Stock,LearnQuest,4.4733898305084745,Intermediate,4
+Recommender Systems,Sungkyunkwan University,4.4733898305084745,Intermediate,4
+"Building a Large-Scale, Automated Forecasting System",SAS,4.4733898305084745,Intermediate,12
+Machine Learning for Marketers,University of Colorado System,4.4733898305084745,Intermediate,4
+Capstone: Analyzing (Social) Network Data,University of California San Diego,4.7,Mixed,12
+Data Mining for Smart Cities,IIT Roorkee,4.4733898305084745,Beginner,12
+Data Collection and Root Cause Analysis,SkillUp EdTech,4.4733898305084745,Beginner,4
+Hands-on Text Mining and Analytics,Yonsei University,3.9,Intermediate,12
+Optimizing Machine Learning Performance,Alberta Machine Intelligence Institute,4.4,Mixed,4
+The Fundamental of Data-Driven Investment,Sungkyunkwan University,4.4,Beginner,4
+Dark Data Basics - Understanding the Unknown,Arizona State University,4.4733898305084745,Beginner,12
+Regression Modeling for Marketers,University of Colorado System,4.4733898305084745,Intermediate,4
+Visualizing & Communicating Results in Python with Jupyter,Codio,4.4733898305084745,Beginner,12
+Combining and Analyzing Complex Data,"University of Maryland, College Park",4.1,Mixed,4
+Causal Inference  2,Columbia University,3.4,Advanced,12
+Reproducible Templates for Analysis and Dissemination,Emory University,4.7,Beginner,12
+R البرمجة باستخدام لغة,Johns Hopkins University,4.4733898305084745,Intermediate,4
+Data Analysis and Interpretation Capstone,Wesleyan University,4.7,Mixed,4
+Using SAS Viya REST APIs with Python and R,SAS,4.7,Mixed,12
+مجموعة أدوات عالم البيانات,Johns Hopkins University,4.7,Mixed,4
+Generative AI Teach-Out,University of Michigan,4.3,Mixed,4
+Finding and Preparing for the Right Job,"University of California, Irvine",4.4733898305084745,Beginner,4
+Data Analysis with Python Project,University of Colorado Boulder,4.4733898305084745,Intermediate,12
+Determining AI Needs,Fred Hutchinson Cancer Center,4.4733898305084745,Intermediate,4
+الشبكات العصبية والتعلم العميق,DeepLearning.AI,4.3,Intermediate,4
+Foundations of mining non-structured medical data,EIT Digital ,3.8,Beginner,12
+‏SQL لعلوم البيانات,"University of California, Davis",4.4733898305084745,Beginner,4
+Design Strategies for Maximizing Total Data Quality,University of Michigan,4.4733898305084745,Beginner,4
+Designing Engaging Dashboards for Healthcare Analytics,Northeastern University ,4.4733898305084745,Mixed,4
+CASL Programming for Distributed Computing in SAS® Viya®,SAS,4.4733898305084745,Advanced,12
+Use Tableau for your Data Science Workflow,Edureka,4.4733898305084745,Beginner,4
+Value Creation with Dark Data,Arizona State University,4.4733898305084745,Beginner,4
+Voice of Change: Communicate with Teams for GenAI Adoption,Microsoft,4.4733898305084745,Intermediate,12
+Communicating Data Science Results,University of Washington,3.4,Mixed,4
+مقدمة عن البيانات الضخمة,University of California San Diego,4.5,Mixed,12
+Cohere - An Introduction,Board Infinity ,4.4733898305084745,Intermediate,4
+Data Mining Project,University of Illinois at Urbana-Champaign,4.5,Mixed,12
+Four Rare Machine Learning Skills All Data Scientists Need,SAS,4.4733898305084745,Advanced,4
+الحصول على البيانات وتنظيفها,Johns Hopkins University,4.4733898305084745,Mixed,4
+تحليل البيانات الاستكشافية,Johns Hopkins University,4.4733898305084745,Mixed,4
+Six Sigma for Process Improvement,SkillUp EdTech,4.4733898305084745,Intermediate,4
+Meaningful Predictive Modeling,University of California San Diego,4.3,Intermediate,4
+Preparing for the SAS® Viya® Programming Certification Exam,SAS,4.4733898305084745,Advanced,4
+Extracting Value from Dark Data: ULEADD,Arizona State University,4.4733898305084745,Beginner,4
+مقاييس الأعمال للشركات التي تعتمد على البيانات,Duke University,4.7,Mixed,12
+Visualizing Data & Communicating Results in R with RStudio,Codio,4.4733898305084745,Beginner,12
+Data science perspectives on pandemic management,Politecnico di Milano,4.4733898305084745,Beginner,12
+Linear Algebra Basics,IIT Roorkee,4.4733898305084745,Intermediate,12
+Advanced Reproducibility in Cancer Informatics,Johns Hopkins University,4.4733898305084745,Advanced,12
+"Understanding China, 1700-2000: A Data Analytic Approach, Part 2",The Hong Kong University of Science and Technology,4.5,Mixed,4
+Tools and Practices for Addressing Pandemic Challenges,Politecnico di Milano,4.4733898305084745,Beginner,12
+تعزيز الشبكات العصبية : ضبط وتحسين مقياس فرط المعلمات,DeepLearning.AI,4.4733898305084745,Beginner,4
+Machine Learning in the Enterprise - Português Brasileiro,Google Cloud,4.4733898305084745,Intermediate,12
+Improvement Techniques and Control Tools,SkillUp EdTech,4.4733898305084745,Beginner,12
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud em Português Brasileiro,Google Cloud,4.6,Intermediate,4
+هيكلة مشاريع التعلم الآلي,DeepLearning.AI,4.4733898305084745,Beginner,4
+Machine Learning Operations (MLOps): Getting Started - Português Brasileiro,Google Cloud,4.4733898305084745,Intermediate,4
+Documentation and Usability for Cancer Informatics,Johns Hopkins University,4.4733898305084745,Intermediate,12
+Data Science at Scale - Capstone Project,University of Washington,3.8,Mixed,12
+الشبكات العصبونية الالتفافية,DeepLearning.AI,4.4733898305084745,Intermediate,4
+النماذج المتعاقبة,DeepLearning.AI,4.4733898305084745,Intermediate,4
+Advanced Statistical Analysis and Tools,SkillUp EdTech,4.4733898305084745,Intermediate,4
+Getting Started with Amazon Personalize,Amazon Web Services,4.4733898305084745,Beginner,4
+PostgreSQL Fundamentals: SQL Command Line,Amazon Web Services,4.4733898305084745,Beginner,4
+PostgreSQL Fundamentals: Explain,Amazon Web Services,4.4733898305084745,Beginner,4
+Introduction to Microsoft 365 Copilot,Microsoft,4.4733898305084745,Beginner,12
+Database Design and Operational Business Intelligence,Edureka,4.4733898305084745,Intermediate,4
+Advanced Microsoft Power BI,Edureka,4.4733898305084745,Advanced,4
